@@ -1,0 +1,77 @@
+[main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+[main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=58890,localport=8005]
+2021-09-19 11:55:56 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-19 12:00:27 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-19 12:00:35 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=58462,localport=8005]
+2021-09-19 12:02:38 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-19 12:02:44 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=51813,localport=8005]
+2021-09-19 12:02:53 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=51817,localport=8005]
+2021-09-19 12:03:01 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=51821,localport=8005]
+2021-09-19 12:03:10 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=51825,localport=8005]
+2021-09-19 12:04:11 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=51831,localport=8005]
+2021-09-20 22:59:38 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 22:59:49 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=62241,localport=8005]
+2021-09-20 23:02:18 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=57011,localport=8005]
+2021-09-20 23:03:04 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 23:03:15 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 23:03:23 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=59547,localport=8005]
+2021-09-20 23:03:52 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 23:03:58 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=59554,localport=8005]
+2021-09-20 23:04:37 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 23:04:45 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=59562,localport=8005]
+2021-09-20 23:06:55 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 23:07:00 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=61202,localport=8005]
+2021-09-20 23:09:04 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 23:09:16 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=56414,localport=8005]
+2021-09-20 23:09:37 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 23:09:45 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=56421,localport=8005]
+2021-09-20 23:10:27 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 23:10:34 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=59061,localport=8005]
+2021-09-20 23:12:02 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 23:12:07 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=49380,localport=8005]
+2021-09-20 23:14:32 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-20 23:14:41 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=59931,localport=8005]
+2021-09-20 23:17:51 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=58133,localport=8005]
+2021-09-21 00:40:53 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-09-21 00:41:55 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=56563,localport=8005]
+2021-10-02 10:26:12 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-10-02 10:26:19 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=58733,localport=8005]
+2021-10-02 10:38:24 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=58794,localport=8005]
+2021-10-02 10:39:46 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=62477,localport=8005]
+2021-10-02 10:41:53 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=62484,localport=8005]
+2021-10-02 10:43:04 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=62488,localport=8005]
+2021-10-02 10:52:44 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=53441,localport=8005]
+2021-10-02 10:58:52 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=50900,localport=8005]
+2021-10-02 10:58:53 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-02 10:58:53 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-02 10:59:13 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-02 11:12:36 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=54638,localport=8005]
+2021-10-02 11:12:37 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-02 11:12:38 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-02 11:12:38 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-02 11:12:42 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Oftamologija
+2021-10-02 11:12:42 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Oftamologija
+2021-10-02 11:12:42 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Oftamologija
+2021-10-02 11:12:42 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Oftamologija
+2021-10-02 11:34:46 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=58426,localport=8005]
+2021-10-02 11:46:39 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Traumatologija
+2021-10-09 13:48:33 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-10-09 13:49:40 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=49662,localport=8005]
+2021-10-09 13:49:56 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-09 13:51:00 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=49675,localport=8005]
+2021-10-09 13:51:33 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=49679,localport=8005]
+2021-10-09 13:57:25 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=49706,localport=8005]
+2021-10-09 13:58:19 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=49710,localport=8005]
+2021-10-09 13:58:37 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-09 13:58:46 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Traumatologija
+2021-10-09 13:59:15 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-09 13:59:26 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba 
+2021-10-09 14:27:24 [main] DEBUG com.bolnica.Server  - Server startovan. Ceka se klijent. 
+2021-10-09 14:27:47 [main] INFO  com.bolnica.Server  - Klijent je konektovan: Socket[addr=/127.0.0.1,port=59299,localport=8005]
+2021-10-09 14:27:54 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-09 14:27:58 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-09 14:28:02 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-09 14:28:14 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Neurologija
+2021-10-09 14:28:26 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Oftamologija
+2021-10-09 14:28:33 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Oftamologija
+2021-10-09 14:29:09 [AWT-EventQueue-0] INFO  com.bolnica.Client  - Izabrana soba Kovid
